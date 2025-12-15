@@ -291,6 +291,15 @@ Use these for cost tracking and resource management in Azure.
 - [ ] Implement Azure Monitor alerts
 - [ ] Add more granular NSG rules
 
+## Git Workflow
+
+This repository maintains a clean, single-commit history for security and clarity. For detailed information about:
+- How this repository's history was created
+- Squashing commits before pull requests
+- Git best practices for infrastructure code
+
+See [GIT_WORKFLOW.md](GIT_WORKFLOW.md) for comprehensive guidance.
+
 ## Support
 For questions or issues with this infrastructure, refer to the Terraform state file or reach out to the infrastructure team.
 
