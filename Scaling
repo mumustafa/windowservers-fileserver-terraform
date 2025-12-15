@@ -1,0 +1,16 @@
+Start with:
+
+
+vm_distribution = {
+  canadacentral = 2
+  canadaeast    = 1
+}
+
+
+To add a fourth VM in Canada East, just update:
+
+
+vm_distribution = {
+  canadacentral  canadacentral = 2
+  canadaeast    = 2
+}
